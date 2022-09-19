@@ -15,5 +15,5 @@ else  if(userNumberA > userNumberB)
         
          Console.Write($"Большее число А: {userNumberA}. Меньшее число В:  {userNumberB}");
         
-else Console.Write($"Большее число B: {userNumberB}. Меньшее число A:  {userNumberA}");
+      else Console.Write($"Большее число B: {userNumberB}. Меньшее число A:  {userNumberA}");
     
